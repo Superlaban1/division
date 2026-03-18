@@ -1,0 +1,100 @@
+NAVIGATION:
+	Elements
+	Display
+	Position
+_________________________________________________________________________________________
+SECTION ELEMENTS TEXT:
+
+ELEMENTER I HTML
+Din Markup består af elementer
+
+Elementerne i din HTML
+
+HTML består fortrinsvis af elementer. I øjeblikket er der omkring 90 HTML tags, hvoraf ca. 30 er HTML5 elementer, som f.eks. <article>.
+
+Dine elementer “opmærkes” med “tags” for at vise hvad der er, og indeholder. Eksempler på HTML5 elementer er: sections, figure, nav og video tagget.
+
+Semantisk opmærkning betyder at du anvender de mest “hensigtsmæssige” tags til elementerne i din HTML, eks.: section > article >  header.
+
+De fleste HTML Elementer er “block - elementer”, hvilket betyder at de “optager en række” og laver linjeskifte. Enkelte er “Inline-elementer” som f.eks.: <img> og <span>.
+
+Læs mere:
+
+
+Mere om sektioner og artikler
+
+Artikler betegnes ofte som “En sammenhængende tekst, der fremstår og kan læses for sig selv”? Altså en “container”, der f.eks. indholder en tekst som giver mening i sig selv.
+
+HTML5 tags er “semantiske”, hvilket betyder at de bør indeholde en bestemt type indhold, som f.eks. artikler, nav eller figure - taggene.
+
+Sektioner er “områder” på siderne, med indhold af samme art. - Eks.: “Sports - sektionen”, et galleri eller lignende.
+
+Siden overordnet, samt sektioner og  artikler kan desuden indholde headers, footers mm. “tag” eller opmærk dit så det giver mening.
+
+Læs mere:
+
+___________________________________________________________________
+SECTION DISPLAY TEXT:
+
+DISPLAY MODES
+ELEMENTER BLIVER “VIST” ELLER “DISPLAYED” I EN BROWSER.
+
+Browsere og display modes
+
+Den måde de forskellige elementer vises på i en browser, kaldes dets “display - mode”. De fleste elementer vises som “block - Element”, og laver derfor et linje skifte.
+
+Enkelte elementer er “In - Line” elementer, laver ikke linje skifte. Du kan ændre den måde dine elementer vises på, i gennem din CSS.
+
+Læs mere:
+
+***IMAGE***
+
+___________________________________________________________________
+SECTION POSITION TEXT:
+
+POSITIONERING
+ELEMENTERS PLACERING I FORHOLD TIL HINANDEN.
+
+Position er placering.
+
+Udover display mode, er elementer  ofte “positioneret” i forhold til hinanden i browserne.
+
+Elementers “standard” positionering i browseren er: “static”! Du kan ændre elementers positionering i CSS. Der er mulighed for at anvende 5 positioneringer.
+
+Læs mere:
+____________________________________________________________________
+
+
+LINKS:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+https://www.geeksforgeeks.org/css-display-property/
+
+https://www.w3schools.com/css/css_positioning.asp
+
+Value	Description
+inline			Displays an element as an inline element.
+block			Displays an element as a block element
+contents		Used to disappear the container.
+flex			Display an element as a block-level flex container.
+grid			Display an element as a block-level grid container.
+inline-block		Display an element as an inline-level block container.
+inline-flex		Display an element as an inline-level flex container.
+inline-grid		Display an element as an inline-level grid container.
+inline-table		Display an inline-level table
+list-item		Display all the elements in <li> element.
+run-in			Display an element inline or block level, depending on the context.
+table			Set the behavior as <table> for all elements.
+table-caption		Set the behavior as <caption> for all elements.
+table-column-group	Set the behavior as <column> for all elements.
+table-header-group	Set the behavior as <header> for all elements.
+table-footer-group	Set the behavior as <footer> for all elements.
+table-row-group		Set the behavior as <row> for all elements.
+table-cell		Set the behavior as <td> for all elements.
+table-column		Set the behavior as <col> for all elements.
+table-row		Set the behavior as <tr> for all elements.
+none			Used to remove the element.
+initial			Sets the default value.
+inherit			Inherits the property from it’s parents’ elements.
+
+

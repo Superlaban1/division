@@ -1,0 +1,22 @@
+#Nav-Main{
+    background-color: #444;
+}
+#Nav-Main ul{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    justify-content: flex-end;
+}
+#Nav-Main ul a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    transition: 400ms ease-in-out;
+}
+#Nav-Main ul a:hover{
+    background-color: #c00;
+}
